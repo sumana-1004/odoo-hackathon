@@ -1,9 +1,8 @@
-**🌍 Traveloop: Relational Itinerary & Budget Architect
-**
+🌍 **Traveloop: Relational Itinerary & Budget Architect**
 Traveloop is a comprehensive travel management "super-app" designed to streamline the planning process through a robust relational ecosystem.
 
-**🚀 The Core Innovation (Relational Database)
-**
+🚀 **The Core Innovation (Relational Database)**
+
 Unlike simple "list-based" travel apps, Traveloop uses a **PostgreSQL** relational schema to maintain strict data hierarchy:
 - **Relational Integrity:** Trips act as the parent container for multiple **Stops** (Cities).
 - **Nested Itineraries:** Each City Stop contains its own unique **Activities**, ensuring costs are tracked accurately by location.
@@ -24,8 +23,7 @@ Users can:
 
 ## Tech Stack
 
-**Frontend:
-**
+**Frontend:**
 - React
 - Vite (Fast HMR)
 - Tailwind CSS (Responsive Design)
